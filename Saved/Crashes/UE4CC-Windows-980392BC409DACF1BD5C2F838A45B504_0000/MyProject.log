@@ -1,0 +1,767 @@
+﻿Log file open, 10/20/18 17:17:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1679904765) SRandInit(1679904766).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 18.460115
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took 19.497s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am HomePC (192.168.2.27:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.218s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.20-14.18.02:995][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.20-14.18.02:996][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.20-14.18.04:195][  0]LogInit: Computer: HOMEPC
+[2018.10.20-14.18.04:195][  0]LogInit: User: LeaveMyYard
+[2018.10.20-14.18.04:195][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.10.20-14.18.04:195][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2018.10.20-14.18.04:196][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2018.10.20-14.18.04:196][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.20-14.18.04:196][  0]LogMemory: Process Physical Memory: 274.03 MB used, 274.03 MB peak
+[2018.10.20-14.18.04:196][  0]LogMemory: Process Virtual Memory: 269.77 MB used, 269.77 MB peak
+[2018.10.20-14.18.04:196][  0]LogMemory: Physical Memory: 2853.41 MB used,  1184.45 MB free, 4037.86 MB total
+[2018.10.20-14.18.04:196][  0]LogMemory: Virtual Memory: 4778.75 MB used,  1184.45 MB free, 134217728.00 MB total
+[2018.10.20-14.18.06:861][  0]LogInit: Using OS detected language (ru-RU).
+[2018.10.20-14.18.06:861][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.20-14.18.07:718][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.10.20-14.18.11:811][  0]LogStreaming: Display: Took  4.998s to EndInitTextLocalization.
+[2018.10.20-14.18.11:839][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.20-14.18.14:550][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.20-14.18.14:551][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.20-14.18.34:715][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.20-14.18.35:205][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.10.20-14.18.35:205][  0]LogD3D11RHI:       6052/0/2018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.20-14.18.35:209][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.20-14.18.35:209][  0]LogD3D11RHI:       0/0/2018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.20-14.18.35:209][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.20-14.18.35:243][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.20-14.18.35:243][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.20-14.18.35:243][  0]LogWindows: EnumDisplayDevices:
+[2018.10.20-14.18.35:244][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.10.20-14.18.35:244][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.10.20-14.18.35:244][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.10.20-14.18.35:244][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.10.20-14.18.35:244][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.20-14.18.35:244][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.10.20-14.18.35:245][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.20-14.18.35:245][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.20-14.18.35:245][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.10.20-14.18.35:424][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.20-14.18.35:424][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.20-14.18.35:424][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.20-14.18.36:010][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 5)
+[2018.10.20-14.18.36:219][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Intermediate/Shaders/WorkingDirectory/9872/).
+[2018.10.20-14.18.36:228][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/LeaveMyYard/AppData/Local/Temp/UnrealShaderWorkingDir/4A0DA7394E075BCA006F82A79E9B8617/'.
+[2018.10.20-14.18.43:964][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.20-14.18.43:983][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.20-14.18.44:002][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.20-14.18.44:021][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.20-14.18.44:129][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.20-14.18.44:149][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.20-14.18.44:170][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.20-14.18.44:189][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.20-14.18.44:199][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.20-14.18.44:216][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.20-14.18.44:232][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.20-14.18.44:248][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.20-14.18.44:265][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.10.20-14.18.44:282][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.20-14.18.44:299][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.20-14.18.44:332][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.20-14.18.44:332][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.20-14.18.44:483][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.20-14.18.44:573][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.20-14.18.44:829][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.20-14.18.44:854][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.20-14.18.44:870][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.20-14.18.44:887][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.20-14.18.44:903][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.20-14.18.44:949][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.20-14.18.44:949][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.20-14.18.49:719][  0]LogXGEController: Cleaning working directory: C:/Users/LeaveMyYard/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.20-14.18.49:720][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.20-14.18.49:720][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.20-14.18.49:720][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.20-14.19.12:382][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.20-14.19.14:273][  0]LogDerivedDataCache: Loaded boot cache 1.87s 74MB C:/Users/LeaveMyYard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.20-14.19.14:273][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/LeaveMyYard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.10.20-14.19.14:273][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.20-14.19.14:273][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.20-14.19.14:273][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.20-14.19.14:273][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.20-14.19.15:098][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.20-14.19.15:110][  0]LogDerivedDataCache: Using Local data cache path C:/Users/LeaveMyYard/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.20-14.19.15:110][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.20-14.19.15:110][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.20-14.19.15:200][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.20-14.19.15:326][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.20-14.19.15:519][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.20-14.19.15:520][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.20-14.19.38:590][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2018.10.20-14.20.01:881][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.20-14.20.04:687][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.20-14.20.04:733][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.20-14.20.04:734][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.20-14.20.04:734][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.20-14.20.04:734][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.20-14.20.04:734][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.20-14.20.05:245][  0]LogNetVersion: MyProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2475486345)
+[2018.10.20-14.20.15:157][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.189692 seconds
+[2018.10.20-14.20.15:189][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.10.20-14.20.15:189][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.10.20-14.20.15:189][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.20-14.21.02:690][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.20-14.21.03:146][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.20-14.21.05:759][  0]SourceControl: Source control is disabled
+[2018.10.20-14.21.05:759][  0]SourceControl: Source control is disabled
+[2018.10.20-14.21.05:895][  0]SourceControl: Source control is disabled
+[2018.10.20-14.21.05:927][  0]SourceControl: Source control is disabled
+[2018.10.20-14.21.10:164][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.20-14.21.11:315][  0]LogOcInput: OculusInput pre-init called
+[2018.10.20-14.21.12:703][  0]LogEngine: Initializing Engine...
+[2018.10.20-14.21.12:846][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.20-14.21.12:867][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.20-14.21.12:868][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.20-14.21.18:806][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.20-14.21.19:552][  0]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.20-14.21.19:742][  0]LogInit: FAudioDevice initialized.
+[2018.10.20-14.21.20:278][  0]LogDerivedDataCache: Saved boot cache 0.53s 74MB C:/Users/LeaveMyYard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.20-14.21.20:415][  0]LogInit: Texture streaming: Enabled
+[2018.10.20-14.21.21:980][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.20-14.21.25:792][  0]LogInit: Transaction tracking system initialized
+[2018.10.20-14.21.31:676][  0]BlueprintLog: New page: Editor Load
+[2018.10.20-14.21.44:512][  0]LocalizationService: Localization service is disabled
+[2018.10.20-14.21.50:965][  0]LogConsoleResponse: Display: 
+[2018.10.20-14.22.01:691][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Content/' took 0.29s
+[2018.10.20-14.22.01:691][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.20-14.22.01:691][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.20-14.22.01:763][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.20-14.22.01:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.20-14.22.01:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.20-14.22.21:589][  0]SourceControl: Source control is disabled
+[2018.10.20-14.22.21:865][  0]Cmd: MAP LOAD FILE="../../../../../../Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.20-14.22.21:910][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.10.20-14.22.22:011][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.20-14.22.22:351][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 340.287ms to complete.
+[2018.10.20-14.22.22:351][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.603
+[2018.10.20-14.22.32:038][  0]LogCollectionManager: Loaded 0 collections in 0.013467 seconds
+[2018.10.20-14.22.32:248][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Saved/Collections/' took 0.01s
+[2018.10.20-14.22.32:248][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Content/Developers/LeaveMyYard/Collections/' took 0.01s
+[2018.10.20-14.22.32:248][  0]LogFileCache: Scanning file cache for directory 'C:/Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Content/Collections/' took 0.01s
+[2018.10.20-14.22.32:248][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.20-14.22.32:261][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2453 classes and 560 folders.
+[2018.10.20-14.22.32:447][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.20-14.22.35:517][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.20-14.22.38:519][  0]LogSlate: Took 0.021805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.20-14.22.38:628][  0]LogSlate: Took 0.049384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.20-14.22.38:723][  0]LogSlate: Took 0.061279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.20-14.22.39:429][  0]LogRenderer: Reallocating scene render targets to support 1028x924 Format 10 NumSamples 1 (Frame:1).
+[2018.10.20-14.22.42:515][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.20-14.22.42:515][  0]LogLoad: (Engine Initialization) Total time: 393.67 seconds
+[2018.10.20-14.22.42:515][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.20-14.22.43:400][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.20-14.22.44:439][  2]LogAssetRegistry: Asset discovery search completed in 185.8719 seconds
+[2018.10.20-14.22.44:458][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.20-14.22.44:458][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
+[2018.10.20-14.22.48:231][ 13]LogSlate: Took 0.060811 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.20-14.22.52:361][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-14.22.56:488][404]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.20-14.22.57:773][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2a135b40, Size=416, Default__W_MapButton_C Function /Game/2DSideScrollerBP/Blueprints/W_MapButton.W_MapButton_C:ExecuteUbergraph_W_MapButton
+[2018.10.20-14.22.58:075][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af2a135b40, Size=416
+[2018.10.20-14.22.58:075][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2a135b40, Size=416, Default__W_MapButton_C Function /Engine/Transient.REINST_W_MapButton_C_0:ExecuteUbergraph_W_MapButton
+[2018.10.20-14.22.58:193][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2b7b73c0, Size=416, Default__W_MapButton_C Function /Game/2DSideScrollerBP/Blueprints/W_MapButton.W_MapButton_C:ExecuteUbergraph_W_MapButton
+[2018.10.20-14.22.58:342][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af24382200, Size=352, Default__W_MapPack1_C Function /Game/2DSideScrollerBP/Blueprints/W_MapPack1.W_MapPack1_C:ExecuteUbergraph_W_MapPack1
+[2018.10.20-14.22.58:388][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af24382200, Size=352
+[2018.10.20-14.22.58:388][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af244b0880, Size=352, Default__W_MapPack1_C Function /Engine/Transient.REINST_W_MapPack1_C_1:ExecuteUbergraph_W_MapPack1
+[2018.10.20-14.22.58:400][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af24390a00, Size=352, Default__W_MapPack1_C Function /Game/2DSideScrollerBP/Blueprints/W_MapPack1.W_MapPack1_C:ExecuteUbergraph_W_MapPack1
+[2018.10.20-14.22.58:403][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2a317f28, Size=24, Default__W_Menu_C Function /Game/2DSideScrollerBP/Blueprints/W_Menu.W_Menu_C:ExecuteUbergraph_W_Menu
+[2018.10.20-14.22.58:407][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af2a317f28, Size=24
+[2018.10.20-14.22.58:407][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2a317f28, Size=24, Default__W_Menu_C Function /Engine/Transient.REINST_W_Menu_C_2:ExecuteUbergraph_W_Menu
+[2018.10.20-14.22.58:409][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2a317fd0, Size=24, Default__W_Menu_C Function /Game/2DSideScrollerBP/Blueprints/W_Menu.W_Menu_C:ExecuteUbergraph_W_Menu
+[2018.10.20-14.22.58:411][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2a3164a0, Size=24, Default__MenuHUD_C Function /Game/2DSideScrollerBP/Blueprints/MenuHUD.MenuHUD_C:ExecuteUbergraph_MenuHUD
+[2018.10.20-14.22.58:568][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af2a3164a0, Size=24
+[2018.10.20-14.22.58:568][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2a3164a0, Size=24, Default__MenuHUD_C Function /Engine/Transient.REINST_MenuHUD_C_8:ExecuteUbergraph_MenuHUD
+[2018.10.20-14.22.58:571][404]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2a315930, Size=24, Default__MenuHUD_C Function /Game/2DSideScrollerBP/Blueprints/MenuHUD.MenuHUD_C:ExecuteUbergraph_MenuHUD
+[2018.10.20-14.22.59:933][404]LogAIModule: Creating AISystem for world M_Menu
+[2018.10.20-14.23.00:480][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af2a135b40, Size=416
+[2018.10.20-14.23.00:480][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af244b0880, Size=352
+[2018.10.20-14.23.00:480][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af2a317f28, Size=24
+[2018.10.20-14.23.00:480][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af2a3164a0, Size=24
+[2018.10.20-14.23.00:600][404]Cmd: MAP LOAD FILE="../../../../../../Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Content/2DSideScrollerBP/Maps/M_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.20-14.23.00:601][404]LightingResults: New page: Lighting Build
+[2018.10.20-14.23.00:623][404]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2018.10.20-14.23.00:625][404]LoadErrors: New page: Loading map: M_Menu.umap
+[2018.10.20-14.23.00:778][404]MapCheck: New page: Map Check
+[2018.10.20-14.23.00:778][404]LightingResults: New page: Lighting Build
+[2018.10.20-14.23.01:424][404]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.20-14.23.01:589][404]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.20-14.23.01:676][404]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87.241ms to complete.
+[2018.10.20-14.23.01:685][404]LogFileHelpers: Loading map 'M_Menu' took 1.120
+[2018.10.20-14.23.02:632][481]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.20-14.23.02:722][481]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu'
+[2018.10.20-14.23.02:786][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.20-14.23.02:918][481]PIE: New page: PIE session: M_Menu (Oct 20, 2018, 8:23:02 PM)
+[2018.10.20-14.23.02:918][481]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu
+[2018.10.20-14.23.02:993][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074556s)
+[2018.10.20-14.23.02:995][481]LogAIModule: Creating AISystem for world M_Menu
+[2018.10.20-14.23.03:027][481]LogPlayLevel: PIE: World Init took: (0.032378s)
+[2018.10.20-14.23.03:027][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/M_Menu.M_Menu to /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu.M_Menu (0.107358s)
+[2018.10.20-14.23.03:161][481]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.20-14.23.03:175][481]LogInit: FAudioDevice initialized.
+[2018.10.20-14.23.03:306][481]LogLoad: Game class is 'MenuGamemode_C'
+[2018.10.20-14.23.03:702][481]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu.M_Menu up for play (max tick rate 0) at 2018.10.20-17.23.03
+[2018.10.20-14.23.03:760][481]LogWorld: Bringing up level for play took: 0.068268
+[2018.10.20-14.23.03:959][481]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.10.20-14.23.04:763][481]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu 2.574
+[2018.10.20-14.23.04:763][481]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu'
+[2018.10.20-14.23.04:980][481]LogRenderer: Reallocating scene render targets to support 1028x996 Format 10 NumSamples 1 (Frame:1).
+[2018.10.20-14.23.11:580][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-14.23.14:147][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-14.23.55:212][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-14.24.05:774][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-14.24.07:210][895]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.07:210][895]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.07:713][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af04050100, Size=1136, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.10.20-14.24.07:716][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af02a639e0, Size=216, Default__BP_FinishLine_C Function /Game/2DSideScrollerBP/Blueprints/BP_FinishLine.BP_FinishLine_C:ExecuteUbergraph_BP_FinishLine
+[2018.10.20-14.24.07:724][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af23f74d00, Size=360, Default__W_WinScreen2_C Function /Game/2DSideScrollerBP/Blueprints/W_WinScreen2.W_WinScreen2_C:ExecuteUbergraph_W_WinScreen2
+[2018.10.20-14.24.07:849][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af0404eca0, Size=144, Default__W_Interface_C Function /Game/2DSideScrollerBP/Blueprints/W_Interface.W_Interface_C:ExecuteUbergraph_W_Interface
+[2018.10.20-14.24.07:957][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2b744a40, Size=292, Default__BP_Trail_C Function /Game/2DSideScrollerBP/Blueprints/BP_Trail.BP_Trail_C:ExecuteUbergraph_BP_Trail
+[2018.10.20-14.24.08:052][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2bdaf510, Size=104, Default__W_LooseScreen_C Function /Game/2DSideScrollerBP/Blueprints/W_LooseScreen.W_LooseScreen_C:ExecuteUbergraph_W_LooseScreen
+[2018.10.20-14.24.08:111][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af02a639e0, Size=216
+[2018.10.20-14.24.08:111][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af040b8c60, Size=216, Default__BP_FinishLine_C Function /Engine/Transient.REINST_BP_FinishLine_C_12:ExecuteUbergraph_BP_FinishLine
+[2018.10.20-14.24.08:112][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af2b744a40, Size=292
+[2018.10.20-14.24.08:112][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af02a260c0, Size=292, Default__BP_Trail_C Function /Engine/Transient.REINST_BP_Trail_C_13:ExecuteUbergraph_BP_Trail
+[2018.10.20-14.24.08:112][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af0404eca0, Size=144
+[2018.10.20-14.24.08:112][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af029b6660, Size=144, Default__W_Interface_C Function /Engine/Transient.REINST_W_Interface_C_3:ExecuteUbergraph_W_Interface
+[2018.10.20-14.24.08:113][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af2bdaf510, Size=104
+[2018.10.20-14.24.08:113][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af03e1e710, Size=104, Default__W_LooseScreen_C Function /Engine/Transient.REINST_W_LooseScreen_C_4:ExecuteUbergraph_W_LooseScreen
+[2018.10.20-14.24.08:114][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af23f74d00, Size=360
+[2018.10.20-14.24.08:114][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af029ba680, Size=360, Default__W_WinScreen2_C Function /Engine/Transient.REINST_W_WinScreen2_C_5:ExecuteUbergraph_W_WinScreen2
+[2018.10.20-14.24.08:115][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af04050100, Size=1136
+[2018.10.20-14.24.08:115][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af02a5b200, Size=1136, Default__2DSideScrollerCharacter_C Function /Engine/Transient.REINST_2DSideScrollerCharacter_C_14:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.10.20-14.24.08:153][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af029d1a60, Size=216, Default__BP_FinishLine_C Function /Game/2DSideScrollerBP/Blueprints/BP_FinishLine.BP_FinishLine_C:ExecuteUbergraph_BP_FinishLine
+[2018.10.20-14.24.08:155][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af244c65c0, Size=292, Default__BP_Trail_C Function /Game/2DSideScrollerBP/Blueprints/BP_Trail.BP_Trail_C:ExecuteUbergraph_BP_Trail
+[2018.10.20-14.24.08:157][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af724693a0, Size=144, Default__W_Interface_C Function /Game/2DSideScrollerBP/Blueprints/W_Interface.W_Interface_C:ExecuteUbergraph_W_Interface
+[2018.10.20-14.24.08:160][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af02912160, Size=104, Default__W_LooseScreen_C Function /Game/2DSideScrollerBP/Blueprints/W_LooseScreen.W_LooseScreen_C:ExecuteUbergraph_W_LooseScreen
+[2018.10.20-14.24.08:167][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af02906980, Size=360, Default__W_WinScreen2_C Function /Game/2DSideScrollerBP/Blueprints/W_WinScreen2.W_WinScreen2_C:ExecuteUbergraph_W_WinScreen2
+[2018.10.20-14.24.08:173][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af2a05ab00, Size=1136, Default__2DSideScrollerCharacter_C Function /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ExecuteUbergraph_2DSideScrollerCharacter
+[2018.10.20-14.24.08:452][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af029ac640, Size=216, Default__BP_BuffSpeed_C Function /Game/2DSideScrollerBP/Blueprints/BP_BuffSpeed.BP_BuffSpeed_C:ExecuteUbergraph_BP_BuffSpeed
+[2018.10.20-14.24.08:455][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af029ac640, Size=216
+[2018.10.20-14.24.08:455][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af029ac640, Size=216, Default__BP_BuffSpeed_C Function /Engine/Transient.REINST_BP_BuffSpeed_C_23:ExecuteUbergraph_BP_BuffSpeed
+[2018.10.20-14.24.08:459][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af029ac1e0, Size=216, Default__BP_BuffSpeed_C Function /Game/2DSideScrollerBP/Blueprints/BP_BuffSpeed.BP_BuffSpeed_C:ExecuteUbergraph_BP_BuffSpeed
+[2018.10.20-14.24.08:634][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af364c6cc0, Size=212, Default__BP_HMovingPlatform_C Function /Game/2DSideScrollerBP/Blueprints/BP_HMovingPlatform.BP_HMovingPlatform_C:ExecuteUbergraph_BP_HMovingPlatform
+[2018.10.20-14.24.08:641][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af364c6cc0, Size=212
+[2018.10.20-14.24.08:641][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af364c6cc0, Size=212, Default__BP_HMovingPlatform_C Function /Engine/Transient.REINST_BP_HMovingPlatform_C_27:ExecuteUbergraph_BP_HMovingPlatform
+[2018.10.20-14.24.08:647][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af364c4fe0, Size=212, Default__BP_HMovingPlatform_C Function /Game/2DSideScrollerBP/Blueprints/BP_HMovingPlatform.BP_HMovingPlatform_C:ExecuteUbergraph_BP_HMovingPlatform
+[2018.10.20-14.24.08:782][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af364a7040, Size=176, Default__BP_RandHorPlatforms_C Function /Game/2DSideScrollerBP/Blueprints/BP_RandHorPlatforms.BP_RandHorPlatforms_C:ExecuteUbergraph_BP_RandHorPlatforms
+[2018.10.20-14.24.08:787][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af364a7040, Size=176
+[2018.10.20-14.24.08:787][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af364a7040, Size=176, Default__BP_RandHorPlatforms_C Function /Engine/Transient.REINST_BP_RandHorPlatforms_C_29:ExecuteUbergraph_BP_RandHorPlatforms
+[2018.10.20-14.24.08:792][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af364a4340, Size=176, Default__BP_RandHorPlatforms_C Function /Game/2DSideScrollerBP/Blueprints/BP_RandHorPlatforms.BP_RandHorPlatforms_C:ExecuteUbergraph_BP_RandHorPlatforms
+[2018.10.20-14.24.08:933][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af70339000, Size=384, Default__BP_Star_C Function /Game/2DSideScrollerBP/Blueprints/BP_Star.BP_Star_C:ExecuteUbergraph_BP_Star
+[2018.10.20-14.24.08:941][895]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af70339000, Size=384
+[2018.10.20-14.24.08:941][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af36482380, Size=384, Default__BP_Star_C Function /Engine/Transient.REINST_BP_Star_C_31:ExecuteUbergraph_BP_Star
+[2018.10.20-14.24.08:948][895]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af3645e080, Size=384, Default__BP_Star_C Function /Game/2DSideScrollerBP/Blueprints/BP_Star.BP_Star_C:ExecuteUbergraph_BP_Star
+[2018.10.20-14.24.13:228][895]LogAIModule: Creating AISystem for world Tutorial_7
+[2018.10.20-14.24.13:228][895]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.24.13:538][895]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_7.Tutorial_7 up for play (max tick rate 0) at 2018.10.20-17.24.13
+[2018.10.20-14.24.13:567][895]LogWorld: Bringing up level for play took: 0.337051
+[2018.10.20-14.24.13:568][895]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.24.13:706][895]LogLoad: Took 6.495546 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_7)
+[2018.10.20-14.24.15:522][974]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.15:523][974]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.15:546][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af03e1e710, Size=104
+[2018.10.20-14.24.15:546][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af02a260c0, Size=292
+[2018.10.20-14.24.15:546][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af029b6660, Size=144
+[2018.10.20-14.24.15:546][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af029ba680, Size=360
+[2018.10.20-14.24.15:546][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af040b8c60, Size=216
+[2018.10.20-14.24.15:546][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af02a5b200, Size=1136
+[2018.10.20-14.24.15:546][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af029ac640, Size=216
+[2018.10.20-14.24.15:546][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af364c6cc0, Size=212
+[2018.10.20-14.24.15:546][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af364a7040, Size=176
+[2018.10.20-14.24.15:546][974]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af36482380, Size=384
+[2018.10.20-14.24.15:812][974]LogAIModule: Creating AISystem for world Tutorial_7
+[2018.10.20-14.24.15:813][974]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.24.15:843][974]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_7.Tutorial_7 up for play (max tick rate 0) at 2018.10.20-17.24.15
+[2018.10.20-14.24.15:844][974]LogWorld: Bringing up level for play took: 0.029776
+[2018.10.20-14.24.15:844][974]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.24.15:858][974]LogLoad: Took 0.334953 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_7)
+[2018.10.20-14.24.17:272][ 74]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.17:273][ 74]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.17:515][ 74]LogAIModule: Creating AISystem for world Tutorial_7
+[2018.10.20-14.24.17:515][ 74]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.24.17:559][ 74]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_7.Tutorial_7 up for play (max tick rate 0) at 2018.10.20-17.24.17
+[2018.10.20-14.24.17:559][ 74]LogWorld: Bringing up level for play took: 0.042029
+[2018.10.20-14.24.17:560][ 74]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.24.17:571][ 74]LogLoad: Took 0.298201 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_7)
+[2018.10.20-14.24.18:858][164]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.18:858][164]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.19:057][164]LogAIModule: Creating AISystem for world Tutorial_7
+[2018.10.20-14.24.19:058][164]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.24.19:091][164]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_7.Tutorial_7 up for play (max tick rate 0) at 2018.10.20-17.24.19
+[2018.10.20-14.24.19:092][164]LogWorld: Bringing up level for play took: 0.030898
+[2018.10.20-14.24.19:092][164]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.24.19:105][164]LogLoad: Took 0.246889 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_7)
+[2018.10.20-14.24.20:765][285]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.20:767][285]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.20:962][285]LogAIModule: Creating AISystem for world Tutorial_7
+[2018.10.20-14.24.20:963][285]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.24.20:994][285]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_7.Tutorial_7 up for play (max tick rate 0) at 2018.10.20-17.24.20
+[2018.10.20-14.24.20:994][285]LogWorld: Bringing up level for play took: 0.029625
+[2018.10.20-14.24.20:995][285]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.24.21:008][285]LogLoad: Took 0.240581 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_7)
+[2018.10.20-14.24.22:685][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-14.24.22:762][414]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.22:762][414]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.22:965][414]LogAIModule: Creating AISystem for world Tutorial_7
+[2018.10.20-14.24.22:965][414]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.24.22:996][414]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_7.Tutorial_7 up for play (max tick rate 0) at 2018.10.20-17.24.22
+[2018.10.20-14.24.22:996][414]LogWorld: Bringing up level for play took: 0.029367
+[2018.10.20-14.24.22:997][414]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.24.23:009][414]LogLoad: Took 0.247286 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_7)
+[2018.10.20-14.24.24:511][522]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.24:511][522]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.24:704][522]LogAIModule: Creating AISystem for world Tutorial_7
+[2018.10.20-14.24.24:704][522]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.24.24:734][522]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_7.Tutorial_7 up for play (max tick rate 0) at 2018.10.20-17.24.24
+[2018.10.20-14.24.24:735][522]LogWorld: Bringing up level for play took: 0.029860
+[2018.10.20-14.24.24:739][522]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.24.24:752][522]LogLoad: Took 0.240214 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_7)
+[2018.10.20-14.24.26:299][635]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.26:299][635]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.24.26:495][635]LogAIModule: Creating AISystem for world Tutorial_7
+[2018.10.20-14.24.26:496][635]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.24.26:527][635]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_7.Tutorial_7 up for play (max tick rate 0) at 2018.10.20-17.24.26
+[2018.10.20-14.24.26:528][635]LogWorld: Bringing up level for play took: 0.030015
+[2018.10.20-14.24.26:528][635]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.24.26:541][635]LogLoad: Took 0.241163 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_7)
+[2018.10.20-14.24.29:915][878]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.20-14.24.30:043][878]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu'
+[2018.10.20-14.24.30:146][878]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu'
+[2018.10.20-14.24.38:938][629]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.20-14.24.39:868][629]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af42c0ba08, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.20-14.24.39:887][629]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af42c0ba00, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.20-14.24.41:965][629]LogSlate: Took 0.013312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.20-14.28.49:583][565]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-14.34.28:438][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/M_Menu' took 0.085
+[2018.10.20-14.34.28:562][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/W_Interface] ([1] browsable assets)...
+[2018.10.20-14.34.28:585][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/W_Interface]
+[2018.10.20-14.34.29:922][386]LogSavePackage: Save=225.48ms
+[2018.10.20-14.34.29:922][386]LogSavePackage: Moving '../../../../../../Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Saved/W_Interface_Auto10085AF8640B62E59B42C5C8CAE1CEC32.tmp' to '../../../../../../Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/W_Interface_Auto1.uasset'
+[2018.10.20-14.34.30:029][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/LeaveMyYard/Desktop/IndiRPG/IndiRPG/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/W_Interface_Auto1.uasset
+[2018.10.20-14.34.30:029][386]LogFileHelpers: Auto-saving content packages took 1.588
+[2018.10.20-14.35.46:323][  0]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\LeaveMyYard\Desktop\loadingBG.png)
+[2018.10.20-14.35.46:421][  0]LogTexture: Display: Building textures: loadingBG (AutoDXT, 548X36)
+[2018.10.20-14.35.46:614][  0]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\LeaveMyYard\Desktop\loadingFill.png)
+[2018.10.20-14.35.46:619][  0]LogTexture: Display: Building textures: loadingFill (AutoDXT, 548X36)
+[2018.10.20-14.36.13:565][976]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-14.36.27:568][587]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.20-14.38.31:935][414]BlueprintLog: New page: Compile W_Interface
+[2018.10.20-14.38.32:007][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af724693a0, Size=144
+[2018.10.20-14.38.32:007][414]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af875d5bc0, Size=144, Default__W_Interface_C Function /Engine/Transient.REINST_W_Interface_C_8:ExecuteUbergraph_W_Interface
+[2018.10.20-14.38.32:023][414]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af74c91120, Size=144, Default__W_Interface_C Function /Game/2DSideScrollerBP/Blueprints/W_Interface.W_Interface_C:ExecuteUbergraph_W_Interface
+[2018.10.20-14.38.32:616][438]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.20-14.38.32:647][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu'
+[2018.10.20-14.38.32:647][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.20-14.38.32:647][438]PIE: New page: PIE session: M_Menu (Oct 20, 2018, 8:38:32 PM)
+[2018.10.20-14.38.32:647][438]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu
+[2018.10.20-14.38.32:648][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001141s)
+[2018.10.20-14.38.32:649][438]LogAIModule: Creating AISystem for world M_Menu
+[2018.10.20-14.38.32:649][438]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2018.10.20-14.38.32:650][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/M_Menu.M_Menu to /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu.M_Menu (0.002441s)
+[2018.10.20-14.38.32:762][438]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.20-14.38.32:777][438]LogInit: FAudioDevice initialized.
+[2018.10.20-14.38.32:835][438]LogLoad: Game class is 'MenuGamemode_C'
+[2018.10.20-14.38.32:837][438]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu.M_Menu up for play (max tick rate 0) at 2018.10.20-17.38.32
+[2018.10.20-14.38.32:837][438]LogWorld: Bringing up level for play took: 0.000861
+[2018.10.20-14.38.32:922][438]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu 0.733
+[2018.10.20-14.38.32:922][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu'
+[2018.10.20-14.38.33:825][479]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_1
+[2018.10.20-14.38.33:825][479]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_1
+[2018.10.20-14.38.34:365][479]LogAIModule: Creating AISystem for world Tutorial_1
+[2018.10.20-14.38.34:365][479]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.38.34:405][479]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_1.Tutorial_1 up for play (max tick rate 0) at 2018.10.20-17.38.34
+[2018.10.20-14.38.34:406][479]LogWorld: Bringing up level for play took: 0.039831
+[2018.10.20-14.38.34:406][479]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.38.34:418][479]LogLoad: Took 0.593430 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_1)
+[2018.10.20-14.38.45:551][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-14.38.45:634][ 42]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_2
+[2018.10.20-14.38.45:634][ 42]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_2
+[2018.10.20-14.38.45:892][ 42]LogAIModule: Creating AISystem for world Tutorial_2
+[2018.10.20-14.38.45:892][ 42]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.38.45:908][ 42]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_2.Tutorial_2 up for play (max tick rate 0) at 2018.10.20-17.38.45
+[2018.10.20-14.38.45:908][ 42]LogWorld: Bringing up level for play took: 0.014153
+[2018.10.20-14.38.45:909][ 42]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.38.45:916][ 42]LogLoad: Took 0.282030 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_2)
+[2018.10.20-14.38.54:888][489]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_2
+[2018.10.20-14.38.54:889][489]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_2
+[2018.10.20-14.38.55:095][489]LogAIModule: Creating AISystem for world Tutorial_2
+[2018.10.20-14.38.55:096][489]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.38.55:110][489]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_2.Tutorial_2 up for play (max tick rate 0) at 2018.10.20-17.38.55
+[2018.10.20-14.38.55:111][489]LogWorld: Bringing up level for play took: 0.014019
+[2018.10.20-14.38.55:111][489]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.38.55:119][489]LogLoad: Took 0.230311 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_2)
+[2018.10.20-14.39.01:749][819]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_2
+[2018.10.20-14.39.01:749][819]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_2
+[2018.10.20-14.39.01:956][819]LogAIModule: Creating AISystem for world Tutorial_2
+[2018.10.20-14.39.01:957][819]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.39.01:977][819]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_2.Tutorial_2 up for play (max tick rate 0) at 2018.10.20-17.39.01
+[2018.10.20-14.39.01:977][819]LogWorld: Bringing up level for play took: 0.019080
+[2018.10.20-14.39.01:978][819]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.01:986][819]LogLoad: Took 0.236249 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_2)
+[2018.10.20-14.39.06:683][ 53]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_2
+[2018.10.20-14.39.06:683][ 53]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_2
+[2018.10.20-14.39.06:863][ 53]LogAIModule: Creating AISystem for world Tutorial_2
+[2018.10.20-14.39.06:863][ 53]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.39.06:878][ 53]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_2.Tutorial_2 up for play (max tick rate 0) at 2018.10.20-17.39.06
+[2018.10.20-14.39.06:878][ 53]LogWorld: Bringing up level for play took: 0.013318
+[2018.10.20-14.39.06:879][ 53]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.06:886][ 53]LogLoad: Took 0.203060 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_2)
+[2018.10.20-14.39.15:649][488]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.15:650][488]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.15:842][488]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af029ddd80, Size=376, Default__BP_RotatBuff_C Function /Game/2DSideScrollerBP/Blueprints/BP_RotatBuff.BP_RotatBuff_C:ExecuteUbergraph_BP_RotatBuff
+[2018.10.20-14.39.15:846][488]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af029ddd80, Size=376
+[2018.10.20-14.39.15:846][488]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af742c9600, Size=376, Default__BP_RotatBuff_C Function /Engine/Transient.REINST_BP_RotatBuff_C_50:ExecuteUbergraph_BP_RotatBuff
+[2018.10.20-14.39.15:849][488]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af42d19600, Size=376, Default__BP_RotatBuff_C Function /Game/2DSideScrollerBP/Blueprints/BP_RotatBuff.BP_RotatBuff_C:ExecuteUbergraph_BP_RotatBuff
+[2018.10.20-14.39.15:987][488]LogAIModule: Creating AISystem for world Tutorial_3
+[2018.10.20-14.39.15:987][488]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.39.16:018][488]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_3.Tutorial_3 up for play (max tick rate 0) at 2018.10.20-17.39.16
+[2018.10.20-14.39.16:019][488]LogWorld: Bringing up level for play took: 0.029625
+[2018.10.20-14.39.16:019][488]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.16:027][488]LogLoad: Took 0.377439 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_3)
+[2018.10.20-14.39.20:787][713]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.20:787][713]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.20:817][713]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af742c9600, Size=376
+[2018.10.20-14.39.20:978][713]LogAIModule: Creating AISystem for world Tutorial_3
+[2018.10.20-14.39.20:978][713]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.39.21:008][713]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_3.Tutorial_3 up for play (max tick rate 0) at 2018.10.20-17.39.21
+[2018.10.20-14.39.21:009][713]LogWorld: Bringing up level for play took: 0.028906
+[2018.10.20-14.39.21:009][713]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.21:017][713]LogLoad: Took 0.229899 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_3)
+[2018.10.20-14.39.29:795][132]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.29:796][132]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.29:988][132]LogAIModule: Creating AISystem for world Tutorial_3
+[2018.10.20-14.39.29:988][132]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.39.30:018][132]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_3.Tutorial_3 up for play (max tick rate 0) at 2018.10.20-17.39.30
+[2018.10.20-14.39.30:019][132]LogWorld: Bringing up level for play took: 0.028870
+[2018.10.20-14.39.30:019][132]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.30:027][132]LogLoad: Took 0.231037 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_3)
+[2018.10.20-14.39.34:295][335]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.34:296][335]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.34:492][335]LogAIModule: Creating AISystem for world Tutorial_3
+[2018.10.20-14.39.34:493][335]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.39.34:523][335]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_3.Tutorial_3 up for play (max tick rate 0) at 2018.10.20-17.39.34
+[2018.10.20-14.39.34:524][335]LogWorld: Bringing up level for play took: 0.029132
+[2018.10.20-14.39.34:524][335]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.34:531][335]LogLoad: Took 0.235353 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_3)
+[2018.10.20-14.39.38:211][510]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.38:212][510]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.38:400][510]LogAIModule: Creating AISystem for world Tutorial_3
+[2018.10.20-14.39.38:401][510]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.39.38:430][510]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_3.Tutorial_3 up for play (max tick rate 0) at 2018.10.20-17.39.38
+[2018.10.20-14.39.38:431][510]LogWorld: Bringing up level for play took: 0.028495
+[2018.10.20-14.39.38:431][510]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.38:439][510]LogLoad: Took 0.227339 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_3)
+[2018.10.20-14.39.43:005][728]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.43:005][728]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_3
+[2018.10.20-14.39.43:194][728]LogAIModule: Creating AISystem for world Tutorial_3
+[2018.10.20-14.39.43:194][728]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.39.43:225][728]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_3.Tutorial_3 up for play (max tick rate 0) at 2018.10.20-17.39.43
+[2018.10.20-14.39.43:225][728]LogWorld: Bringing up level for play took: 0.029089
+[2018.10.20-14.39.43:226][728]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.43:233][728]LogLoad: Took 0.227494 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_3)
+[2018.10.20-14.39.47:657][937]LogNet: Browse: /Game/2DSideScrollerBP/Maps/M_Menu
+[2018.10.20-14.39.47:658][937]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/M_Menu
+[2018.10.20-14.39.47:688][937]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu
+[2018.10.20-14.39.47:689][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001063s)
+[2018.10.20-14.39.47:690][937]LogAIModule: Creating AISystem for world M_Menu
+[2018.10.20-14.39.47:690][937]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2018.10.20-14.39.47:690][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/M_Menu.M_Menu to /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu.M_Menu (0.002232s)
+[2018.10.20-14.39.47:690][937]LogLoad: Game class is 'MenuGamemode_C'
+[2018.10.20-14.39.47:692][937]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu.M_Menu up for play (max tick rate 0) at 2018.10.20-17.39.47
+[2018.10.20-14.39.47:693][937]LogWorld: Bringing up level for play took: 0.001052
+[2018.10.20-14.39.47:693][937]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.47:758][937]LogLoad: Took 0.100664 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu)
+[2018.10.20-14.39.51:010][106]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_1
+[2018.10.20-14.39.51:010][106]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_1
+[2018.10.20-14.39.51:194][106]LogAIModule: Creating AISystem for world Tutorial_1
+[2018.10.20-14.39.51:194][106]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.39.51:206][106]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_1.Tutorial_1 up for play (max tick rate 0) at 2018.10.20-17.39.51
+[2018.10.20-14.39.51:206][106]LogWorld: Bringing up level for play took: 0.010118
+[2018.10.20-14.39.51:207][106]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.51:219][106]LogLoad: Took 0.208432 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_1)
+[2018.10.20-14.39.56:624][373]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_1
+[2018.10.20-14.39.56:624][373]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_1
+[2018.10.20-14.39.56:799][373]LogAIModule: Creating AISystem for world Tutorial_1
+[2018.10.20-14.39.56:799][373]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.10.20-14.39.56:809][373]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Tutorial_1.Tutorial_1 up for play (max tick rate 0) at 2018.10.20-17.39.56
+[2018.10.20-14.39.56:810][373]LogWorld: Bringing up level for play took: 0.009496
+[2018.10.20-14.39.56:810][373]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.20-14.39.56:823][373]LogLoad: Took 0.199081 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/Tutorial_1)
+[2018.10.20-14.40.00:121][535]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.20-14.40.00:126][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu'
+[2018.10.20-14.40.00:161][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu'
+[2018.10.20-14.41.24:378][347]BlueprintLog: New page: Compile W_Interface
+[2018.10.20-14.41.24:400][347]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001af74c91120, Size=144
+[2018.10.20-14.41.24:400][347]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af887f3b00, Size=144, W_Interface_C_27 Function /Engine/Transient.REINST_W_Interface_C_11:ExecuteUbergraph_W_Interface
+[2018.10.20-14.41.24:404][347]LogUObjectGlobals: Created PersistentFrame Addr=0x000001af88a2ccc0, Size=144, Default__W_Interface_C Function /Game/2DSideScrollerBP/Blueprints/W_Interface.W_Interface_C:ExecuteUbergraph_W_Interface
+[2018.10.20-14.41.24:941][364]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.20-14.41.24:972][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu'
+[2018.10.20-14.41.24:973][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.20-14.41.24:973][364]PIE: New page: PIE session: M_Menu (Oct 20, 2018, 8:41:24 PM)
+[2018.10.20-14.41.24:973][364]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu
+[2018.10.20-14.41.24:974][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001181s)
+[2018.10.20-14.41.24:975][364]LogAIModule: Creating AISystem for world M_Menu
+[2018.10.20-14.41.24:976][364]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2018.10.20-14.41.24:976][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/M_Menu.M_Menu to /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu.M_Menu (0.002639s)
+[2018.10.20-14.41.25:062][364]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.20-14.41.25:077][364]LogInit: FAudioDevice initialized.
+[2018.10.20-14.41.25:137][364]LogLoad: Game class is 'MenuGamemode_C'
+[2018.10.20-14.41.25:137][364]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu.M_Menu up for play (max tick rate 0) at 2018.10.20-17.41.25
+[2018.10.20-14.41.25:138][364]LogWorld: Bringing up level for play took: 0.000608
+[2018.10.20-14.41.25:217][364]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_M_Menu 1.028
+[2018.10.20-14.41.25:217][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu' with GeneratedClass '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/M_Menu.M_Menu:PersistentLevel.M_Menu'
+[2018.10.20-14.41.26:914][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.20-14.41.26:967][428]LogNet: Browse: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.41.26:967][428]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/Tutorial_7
+[2018.10.20-14.41.29:198][428]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.011 s
+[2018.10.20-14.41.29:199][428]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.20-14.41.29:199][428]LogOutputDevice: Error: 
+[2018.10.20-14.41.29:199][428]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.10.20-14.41.29:199][428]LogOutputDevice: Error: 
+[2018.10.20-14.41.29:199][428]LogOutputDevice: Error: Stack: 
+[2018.10.20-14.41.29:199][428]LogOutputDevice: Error: [Callstack] 0x000000004245B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.20-14.41.29:199][428]LogOutputDevice: Error: [Callstack] 0x00000000421BAE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.10.20-14.41.29:199][428]LogOutputDevice: Error: [Callstack] 0x00000000421CECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x000000003D06BBE9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x000000003D03D28D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x00000000419C6F37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x0000000041D0C010 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x0000000041D2312B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x0000000041D22544 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x0000000043CE917A UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x0000000043C9C788 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x0000000043D0A4A0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x000000003F77CD20 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x0000000040019626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x000000007BFD5EAC UE4Editor.exe!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x000000007BFE6BD0 UE4Editor.exe!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x000000007BFE6C4A UE4Editor.exe!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x000000007BFF4177 UE4Editor.exe!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x000000007BFF5B87 UE4Editor.exe!UnknownFunction []
+[2018.10.20-14.41.29:200][428]LogOutputDevice: Error: [Callstack] 0x000000009A443034 KERNEL32.DLL!UnknownFunction []
+[2018.10.20-14.41.29:201][428]LogOutputDevice: Error: [Callstack] 0x000000009ADB1461 ntdll.dll!UnknownFunction []
+[2018.10.20-14.41.29:201][428]LogOutputDevice: Error: 
+[2018.10.20-14.41.29:209][428]LogStats:                SubmitErrorReport -  0.000 s
