@@ -75,7 +75,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Pavel LeaveMyYard Zhukov** - *Idea, Coding, Design, Level Design* - [LeaveMyYard](https://github.com/LeaveMyYard)
+* **Danil skylightxo Krutogolov** - *Coding, Level Design* - [skylightxo](https://github.com/skylightxo)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
